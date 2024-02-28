@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @FGeramiraz1362
-- 👀 I’m interested in mathematics
+- 👋 Hi, I’m Farnaz Geramiraz
+- 👀 I’m interested in mathematics, copmuter programming, problem solving , ...
 - 🌱 I’m currently learning Git!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 FGeramiraz1362/FGeramiraz1362 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
